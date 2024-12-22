@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, music production, and other stuff
 - 🌱 I’m currently learning lots of stuf
 - 💞️ I’m looking to collaborate on EO1
-- 📫 How to reach me Discord: 3.14.pie
+- 📫 How to reach me Discord: that_pi_guy
 - 😄 Pronouns: He.him
 - ⚡ Fun fact: I made this account to learn what Github's all about. I'm not 100% sure yet
 
